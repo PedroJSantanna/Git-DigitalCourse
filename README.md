@@ -1,8 +1,3 @@
 # Curso Digital: Git
 
-##  Gravando mudanças no repositório
-
-### NovU
-
-####PARALELEPIPEDO
-
+# Salvando modificações mo Git
